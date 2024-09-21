@@ -18,3 +18,6 @@ pip install polars
 - Com o polars será feito a leitura dos arquivos encontrados, utilizando parâmetros específicos para que seja feita a leitura correta;
 - Converter os arquivos csv para parquet, nesse momento é feito a compactação;
 - Salvá-los em um outro diretório.
+
+## ARTIGO
+[LinkedIn](https://www.linkedin.com/posts/yara-de-oliveira-rufino_projeto-conclus%C3%A3o-de-curso-forma%C3%A7%C3%A3o-power-activity-7176623600861409280-_COm/?utm_source=share&utm_medium=member_desktop)
